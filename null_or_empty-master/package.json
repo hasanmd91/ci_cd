@@ -9,5 +9,8 @@
     "test": "echo 'Running unit tests!'"
   },
   "author": "SK",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.2.2"
+  }
 }
